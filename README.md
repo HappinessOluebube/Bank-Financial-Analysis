@@ -1,5 +1,5 @@
 Overview
-The Bank Database Analysis project uses SQL to analyze customer information, account balances, and transaction activities to generate insights that support financial reporting and business decisions.
+The Bank Financial Database Analysis project uses SQL to analyze customer information, account balances, and transaction activities to generate insights that support financial reporting and business decisions.
 
 Key Insights
 1. Customer Distribution: Identifies locations with the highest number of customers.
